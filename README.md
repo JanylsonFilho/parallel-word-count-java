@@ -258,7 +258,7 @@ A versão `ParallelCPU`, principalmente com 4 e 16 threads, teve os menores temp
 
 ## Gráfico 2 — Tempo médio por método e arquivo
 
-![Tempo médio por método e arquivo](images/grafico_tempo_medio_por_metodo_e_arquivo.png)
+![Tempo médio por método e arquivo](java-parallel-wordcount-benchmark/images/grafico_tempo_medio_por_metodo_e_arquivo.png)
 
 Esse gráfico compara diretamente todos os métodos em cada arquivo.
 
@@ -272,7 +272,7 @@ As configurações `ParallelCPU (4 threads)` e `ParallelCPU (16 threads)` aprese
 
 ## Gráfico 3 — ParallelCPU por quantidade de threads
 
-![ParallelCPU por quantidade de threads](images/grafico_parallelcpu_threads.png)
+![ParallelCPU por quantidade de threads](java-parallel-wordcount-benchmark/images/grafico_parallelcpu_threads.png)
 
 Esse gráfico mostra apenas a versão `ParallelCPU`, variando o número de threads.
 
@@ -286,7 +286,7 @@ Também é possível observar que o ganho não cresce de forma perfeitamente lin
 
 ## Gráfico 4 — Speedup das versões paralelas
 
-![Speedup das versões paralelas](images/grafico_speedup.png)
+![Speedup das versões paralelas](java-parallel-wordcount-benchmark/images/grafico_speedup.png)
 
 O gráfico de speedup compara cada versão paralela com a `SerialCPU`.
 
