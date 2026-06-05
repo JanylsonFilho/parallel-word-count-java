@@ -244,7 +244,7 @@ O arquivo `speedup.csv` possui 15 linhas, pois compara apenas as versões parale
 
 ## Gráfico 1 — Tempo médio por tamanho do arquivo
 
-![Tempo médio por tamanho do arquivo](images/grafico_tempo_por_tamanho_arquivo.png)
+![Tempo médio por tamanho do arquivo](java-parallel-wordcount-benchmark/images/grafico_tempo_por_tamanho_arquivo.png)
 
 Esse gráfico mostra a relação entre o tamanho do arquivo e o tempo médio de execução de cada configuração.
 
